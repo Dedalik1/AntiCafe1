@@ -1,0 +1,904 @@
+17:49:39.237 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+17:50:09.238 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+17:50:10.750 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+17:50:12.538 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+17:50:12.539 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+17:50:13.169 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+17:50:13.171 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+17:50:13.173 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+17:50:13.737 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+17:50:13.738 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+17:50:13.738 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+17:50:53.031 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+17:50:53.032 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+17:50:53.032 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+17:50:53.032 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+17:50:53.033 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+17:50:53.033 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+17:50:53.033 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+17:50:53.033 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+17:50:53.034 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количестов его выборов
+17:50:53.034 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+17:50:53.035 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+17:50:54.491 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+17:50:54.495 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+17:52:02.203 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+17:52:03.906 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+17:52:05.776 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+17:52:05.776 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+17:52:06.303 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+17:52:06.304 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+17:52:06.305 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+17:52:06.773 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+17:52:06.774 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+17:52:06.774 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+17:52:07.496 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+17:52:07.497 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+17:52:07.498 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+17:52:07.929 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+17:52:07.930 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+17:52:07.930 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+17:52:09.894 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+17:52:09.894 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+17:52:09.894 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количестов его выборов
+17:52:09.895 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+17:52:09.896 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+17:52:12.425 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+17:52:12.427 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+17:58:40.958 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+17:58:42.627 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+17:58:47.262 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+17:58:47.263 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+17:58:48.400 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+17:58:48.402 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+17:58:48.402 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+17:58:50.419 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+17:58:50.420 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+17:58:50.421 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+17:59:00.184 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+17:59:00.185 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+17:59:00.185 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+17:59:00.669 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+17:59:00.670 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+17:59:00.670 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+17:59:01.217 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+17:59:01.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+17:59:01.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+17:59:03.759 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+17:59:03.760 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+17:59:03.760 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+17:59:04.115 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+17:59:04.116 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+17:59:04.116 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+17:59:04.978 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+17:59:04.979 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+17:59:04.979 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+17:59:07.974 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+17:59:07.974 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+17:59:09.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+17:59:09.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+17:59:09.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+17:59:09.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+17:59:09.580 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+17:59:09.580 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+17:59:09.580 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+17:59:09.581 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+17:59:09.581 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+17:59:09.581 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+17:59:09.583 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+17:59:20.386 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+17:59:20.391 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+19:03:48.741 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+19:03:50.238 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+19:03:51.808 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+19:03:51.809 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+19:03:52.193 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+19:03:52.195 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+19:03:52.195 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+19:03:52.825 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+19:03:52.826 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+19:03:52.826 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+19:03:52.826 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+19:03:52.827 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+19:03:52.827 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+19:03:52.827 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+19:03:52.829 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+19:03:53.931 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+19:03:53.937 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+19:10:32.109 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+20:16:39.863 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+20:16:41.516 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+20:16:43.228 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+20:54:29.611 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+20:54:31.145 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+20:54:32.243 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была неверно введена стоимость за минуту
+20:54:32.243 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+20:54:32.243 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+20:54:33.644 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+20:54:33.644 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+20:54:34.232 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+20:54:34.234 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+20:54:34.234 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+20:54:34.578 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+20:54:34.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+20:54:34.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+20:54:35.701 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+20:54:35.702 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+20:54:35.702 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+20:54:35.702 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+20:54:35.703 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+20:54:35.703 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+20:54:35.703 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+20:54:35.703 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+20:54:35.703 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+20:54:35.703 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+20:54:35.706 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+20:54:37.303 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+20:54:37.306 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+15:55:11.408 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+15:55:13.267 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+15:55:13.493 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+15:55:15.928 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+15:55:15.928 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+15:55:17.365 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Не было занято ни одного столика
+15:55:17.896 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+15:55:17.898 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+15:55:17.898 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+15:55:18.469 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+15:55:18.470 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+15:55:18.470 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+15:55:19.482 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+15:55:19.483 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+15:55:19.484 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+15:55:19.484 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+15:55:19.484 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+15:55:19.484 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+15:55:19.485 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+15:55:19.485 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+15:55:19.485 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+15:55:19.485 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+15:55:19.487 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+15:55:20.916 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+15:55:20.919 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+18:23:21.175 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+18:29:39.602 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+18:29:39.748 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+18:33:42.356 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+18:33:42.357 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+18:33:43.734 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+18:33:43.736 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+18:33:43.737 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+18:33:44.283 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+18:33:44.283 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+18:33:44.284 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+18:33:44.672 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+18:33:44.673 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+18:33:44.673 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+18:33:45.150 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+18:33:45.150 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+18:33:45.151 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+18:33:45.577 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+18:33:45.578 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+18:33:45.578 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+18:33:59.618 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+18:33:59.619 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+18:33:59.619 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+18:33:59.619 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+18:33:59.620 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+18:33:59.620 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+18:33:59.621 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+18:33:59.621 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+18:33:59.621 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+18:33:59.621 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+18:33:59.622 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+18:33:59.622 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+18:33:59.622 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+18:33:59.622 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+18:33:59.622 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+18:33:59.623 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+18:33:59.623 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+18:33:59.623 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+18:33:59.623 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+18:33:59.625 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+18:34:01.306 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+18:34:01.307 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+18:48:02.173 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+18:48:03.618 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+18:48:03.784 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+18:48:06.360 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+18:48:06.360 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+18:48:07.251 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+18:48:07.253 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+18:48:07.253 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+18:48:07.853 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+18:48:07.853 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+18:48:07.854 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+18:48:08.270 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+18:48:08.271 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+18:48:08.271 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+18:48:08.595 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+18:48:08.595 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+18:48:08.596 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+18:48:08.953 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+18:48:08.954 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+18:48:08.954 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+18:48:12.033 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+18:48:12.034 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+18:48:12.034 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+18:48:12.034 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+18:48:12.035 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+18:48:12.035 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+18:48:12.035 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+18:48:12.036 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+18:48:12.036 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+18:48:12.036 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+18:48:12.036 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+18:48:12.037 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+18:48:12.037 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+18:48:12.037 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+18:48:12.037 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+18:48:12.038 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+18:48:12.038 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+18:48:12.038 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+18:48:12.038 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+18:48:12.040 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+21:18:47.738 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+21:18:53.372 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+21:18:53.595 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+21:18:55.164 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+21:18:55.164 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+21:18:55.598 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+21:18:55.600 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+21:18:55.600 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+21:18:56.215 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+21:18:56.215 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+21:18:56.216 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+21:18:56.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+21:18:56.614 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+21:18:56.614 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+21:18:57.186 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+21:18:57.186 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+21:18:57.187 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+21:18:57.452 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+21:18:57.453 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+21:18:57.453 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+21:18:58.135 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+21:18:58.136 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+21:18:58.136 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+21:18:58.452 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+21:18:58.452 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+21:18:58.453 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+21:18:58.794 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 5
+21:18:58.795 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 5
+21:18:58.795 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 5
+21:18:59.385 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+21:18:59.386 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+21:18:59.386 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+21:18:59.815 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+21:18:59.816 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+21:18:59.816 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+21:19:03.608 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была неверно введена стоимость за минуту
+21:19:03.608 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+21:19:03.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+21:19:03.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+21:19:03.610 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+21:19:03.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+21:19:03.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+21:19:03.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 5
+21:19:03.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 5
+21:19:03.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 5
+21:19:03.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+21:19:03.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+21:19:03.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+21:19:03.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+21:19:03.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+21:19:03.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+21:19:03.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+21:19:03.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+21:19:03.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+21:19:03.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+21:19:03.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+21:19:03.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+21:19:03.613 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+21:19:03.614 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+21:19:03.614 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+21:19:03.614 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+21:19:08.501 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+21:19:08.501 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+21:19:14.618 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+21:19:14.619 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+21:19:14.619 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+21:19:15.656 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+21:19:15.657 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+21:19:15.657 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+21:19:25.032 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+21:19:25.032 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+21:19:25.032 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+21:19:25.686 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+21:19:25.686 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+21:19:25.687 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+21:19:26.356 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+21:19:26.356 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+21:19:26.357 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+21:19:26.799 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+21:19:26.799 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+21:19:26.799 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+21:19:27.427 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+21:19:27.427 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+21:19:27.428 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+21:19:27.832 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+21:19:27.832 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+21:19:27.832 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+21:19:28.252 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+21:19:28.253 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+21:19:28.253 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+21:19:28.541 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+21:19:28.541 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+21:19:28.542 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+21:19:29.202 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+21:19:29.203 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+21:19:29.203 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+21:19:29.529 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+21:19:29.529 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+21:19:29.529 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+21:19:29.853 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+21:19:29.854 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+21:19:29.854 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+21:19:30.140 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+21:19:30.141 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+21:19:30.141 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+21:19:30.706 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 5
+21:19:30.707 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 5
+21:19:30.707 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 5
+21:19:30.917 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 5
+21:19:30.918 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 5
+21:19:30.918 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 5
+21:19:31.241 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+21:19:31.241 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+21:19:31.242 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+21:19:31.493 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+21:19:31.494 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+21:19:31.494 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+21:19:31.852 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+21:19:31.852 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+21:19:31.853 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+21:19:32.071 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+21:19:32.072 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+21:19:32.073 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+21:19:32.392 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+21:19:32.393 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+21:19:32.393 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+21:19:32.638 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+21:19:32.638 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+21:19:32.638 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+21:21:22.668 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+21:21:22.668 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+21:21:22.668 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+21:21:22.668 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+21:21:22.671 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+21:21:23.878 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+21:21:23.880 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+21:47:13.755 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+21:47:15.029 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+21:47:15.207 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+21:47:19.592 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была неверно введена стоимость за минуту
+21:47:19.592 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+21:47:19.592 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+21:47:49.169 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была введена нулевая стоимость за минуту
+21:47:49.169 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+21:47:49.170 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+21:48:23.138 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была введена отрицательная стоимость за минуту
+21:48:23.138 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+21:48:23.138 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+21:53:58.989 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Не было занято ни одного столика
+21:54:03.227 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+21:54:03.228 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+21:54:04.874 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+21:54:04.876 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+21:54:04.876 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+21:54:05.226 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+21:54:05.226 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+21:54:05.226 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+21:54:05.629 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+21:54:05.630 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+21:54:05.630 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+21:54:06.376 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+21:54:06.376 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+21:54:06.377 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+21:54:06.740 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+21:54:06.741 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+21:54:06.741 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+21:54:07.390 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+21:54:07.391 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+21:54:07.392 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+21:54:07.679 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+21:54:07.680 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+21:54:07.680 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+21:54:08.013 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+21:54:08.014 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+21:54:08.014 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+21:54:08.329 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+21:54:08.330 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+21:54:08.330 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+21:54:08.662 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+21:54:08.663 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+21:54:08.663 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+22:00:18.078 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+22:00:18.078 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+22:00:18.078 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+22:00:18.079 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+22:00:18.080 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+22:00:32.446 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+22:00:32.447 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+22:19:37.656 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+22:19:39.560 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+22:19:39.737 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+22:19:42.152 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+22:19:42.152 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+22:25:55.083 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+22:25:55.085 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+22:25:55.085 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+22:25:55.417 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+22:25:55.418 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+22:25:55.418 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+22:25:56.092 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+22:25:56.093 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+22:25:56.093 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+22:25:56.402 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+22:25:56.402 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+22:25:56.403 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+22:25:57.815 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+22:28:41.829 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+22:28:43.001 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+22:28:43.146 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+22:33:18.172 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Не было занято ни одного столика
+22:33:19.828 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+23:23:31.652 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+23:23:33.776 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+23:23:34.001 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+23:23:40.252 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+23:23:40.252 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+23:23:41.013 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:41.014 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:41.015 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:41.539 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+23:23:41.540 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+23:23:41.540 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+23:23:46.215 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:46.216 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:46.216 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:46.217 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+23:23:46.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+23:23:46.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+23:23:46.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+23:23:46.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+23:23:46.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+23:23:46.218 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+23:23:46.220 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+23:23:47.562 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+23:23:47.565 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+23:23:50.954 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+23:23:52.044 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+23:23:52.207 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+23:23:53.253 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+23:23:53.254 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+23:23:53.655 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:53.657 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:53.657 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:53.869 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:53.870 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:53.870 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:54.188 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:54.189 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:54.189 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:54.376 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:54.377 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:54.377 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:54.549 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:54.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:54.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:54.761 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:54.761 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:54.761 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:54.943 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:54.943 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:54.944 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:55.122 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:55.122 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:55.122 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:55.284 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:55.285 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:55.285 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:55.438 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:55.439 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:55.439 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:55.583 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:23:55.584 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:23:55.584 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:23:55.734 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:23:55.735 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:23:55.735 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:23:56.672 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+23:23:56.672 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+23:23:56.672 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+23:23:56.673 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+23:23:56.675 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+23:23:59.798 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+23:23:59.801 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+23:24:04.091 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+23:24:05.381 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+23:24:05.585 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+23:24:07.114 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+23:24:07.114 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+23:24:08.068 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+23:24:08.070 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+23:24:08.070 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+23:24:08.566 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+23:24:08.567 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+23:24:08.567 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+23:24:09.713 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+23:24:09.714 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+23:24:09.714 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+23:24:10.124 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+23:24:10.124 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+23:24:10.125 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+23:24:11.351 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+23:24:11.351 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+23:24:11.352 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+23:24:11.600 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+23:24:11.601 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+23:24:11.601 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+23:24:12.131 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+23:24:12.131 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+23:24:12.132 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+23:24:12.396 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+23:24:12.396 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+23:24:12.396 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+23:24:13.083 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+23:24:13.084 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+23:24:13.084 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+23:24:13.775 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 5
+23:24:13.776 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 5
+23:24:13.776 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 5
+23:24:14.547 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+23:24:14.548 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+23:24:14.548 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+23:24:14.548 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+23:24:14.549 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+23:24:14.549 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+23:24:14.549 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+23:24:14.549 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+23:24:14.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+23:24:14.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+23:24:14.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+23:24:14.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+23:24:14.550 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 5
+23:24:14.551 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 5
+23:24:14.551 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 5
+23:24:14.551 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+23:24:14.551 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+23:24:14.551 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+23:24:14.551 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+23:24:14.552 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+23:24:14.552 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+23:24:14.552 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+23:24:14.553 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+23:24:14.553 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+23:24:14.553 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+23:24:14.553 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+23:24:14.553 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+23:24:14.554 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+23:24:14.556 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+23:24:16.243 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+23:24:16.245 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+00:50:40.882 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+00:51:57.932 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+00:51:58.261 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:52:00.250 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+00:52:00.250 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+00:52:01.061 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+00:52:01.063 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+00:52:01.064 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+00:52:01.296 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+00:52:01.297 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+00:52:01.297 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+00:52:01.762 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+00:52:01.763 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+00:52:01.763 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+00:52:02.053 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+00:52:02.054 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+00:52:02.054 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+00:52:02.722 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+00:52:02.723 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+00:52:02.723 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+00:52:03.564 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+00:52:03.565 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+00:52:03.565 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+00:52:04.009 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+00:52:04.010 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+00:52:04.010 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+00:52:04.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+00:52:04.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+00:52:04.612 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+00:52:08.863 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была введена нулевая стоимость за минуту
+00:52:08.864 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:52:08.864 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+00:52:08.864 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+00:52:08.865 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+00:52:08.865 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+00:52:08.865 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+00:52:08.865 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+00:52:08.866 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+00:52:08.866 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+00:52:08.866 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+00:52:08.866 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+00:52:08.866 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+00:52:08.867 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+00:52:08.867 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+00:52:08.867 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+00:52:08.867 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+00:52:08.867 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+00:52:08.867 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+00:52:08.868 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+00:52:08.869 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+00:52:11.729 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была введена отрицательная стоимость за минуту
+00:52:11.729 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:52:11.729 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+00:52:13.872 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+00:52:13.872 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+00:52:14.741 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+00:52:14.742 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+00:52:14.742 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+00:52:15.049 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+00:52:15.049 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+00:52:15.050 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+00:52:15.541 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+00:52:15.542 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+00:52:15.542 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+00:52:15.846 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+00:52:15.847 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+00:52:15.847 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+00:52:16.168 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+00:52:16.169 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+00:52:16.169 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+00:52:16.476 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+00:52:16.477 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+00:52:16.477 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+00:52:16.782 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 4
+00:52:16.783 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 4
+00:52:16.783 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 4
+00:52:18.323 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+00:52:18.323 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+00:52:18.324 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+00:52:18.324 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+00:52:18.324 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+00:52:18.324 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+00:52:18.324 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 4
+00:52:18.325 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 4
+00:52:18.325 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 4
+00:52:18.325 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+00:52:18.325 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+00:52:18.325 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+00:52:18.325 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+00:52:18.326 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+00:52:18.326 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+00:52:18.326 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+00:52:18.326 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+00:52:18.326 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+00:52:18.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+00:52:18.329 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+00:52:58.137 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+00:52:58.140 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+00:53:02.142 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+00:53:10.414 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+00:53:10.620 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:53:30.657 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+00:53:34.754 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+00:53:43.839 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+00:53:44.118 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:53:46.684 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+00:53:46.685 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+00:53:47.265 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+00:53:47.267 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+00:53:47.268 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+00:53:47.577 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+00:53:47.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+00:53:47.579 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+00:53:47.820 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+00:53:47.822 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+00:53:47.822 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+00:53:48.098 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+00:53:48.099 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+00:53:48.099 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+00:53:48.342 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+00:53:48.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+00:53:48.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+00:53:48.898 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 3
+00:53:48.899 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 3
+00:53:48.900 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 3
+00:53:51.834 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была введена отрицательная стоимость за минуту
+00:53:51.834 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:53:51.835 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+00:53:51.836 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+00:53:51.836 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+00:53:51.836 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+00:53:51.837 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+00:53:51.837 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+00:53:51.837 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 3
+00:53:51.837 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 3
+00:53:51.838 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 3
+00:53:51.838 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+00:53:51.838 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+00:53:51.839 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+00:53:51.839 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+00:53:51.839 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+00:53:51.839 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+00:53:51.840 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+00:53:51.840 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+00:53:51.840 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+00:53:51.840 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+00:53:56.786 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Была введена нулевая стоимость за минуту
+00:53:56.787 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+00:53:56.787 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+00:53:58.222 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+00:53:58.222 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+00:53:58.629 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 6
+00:53:58.631 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 6
+00:53:58.631 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 6
+00:53:58.965 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+00:53:58.966 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+00:53:58.967 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+00:53:59.401 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+00:53:59.402 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+00:53:59.403 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+00:53:59.672 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 2
+00:53:59.673 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 2
+00:53:59.673 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 2
+00:54:00.777 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+00:54:00.778 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+00:54:00.779 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+00:54:01.135 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 2
+00:54:01.135 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 2
+00:54:01.136 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 2
+00:54:01.394 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+00:54:01.395 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+00:54:01.396 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+00:54:01.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 6
+00:54:01.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 6
+00:54:01.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 6
+00:54:02.092 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+00:54:02.094 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+00:54:02.094 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+00:54:02.250 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+00:54:02.251 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+00:54:02.252 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+00:54:02.443 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+00:54:02.445 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+00:54:02.445 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+00:54:02.637 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+00:54:02.638 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+00:54:02.638 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+00:54:02.912 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 8
+00:54:02.913 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 8
+00:54:02.914 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 8
+00:54:05.297 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 8
+00:54:05.298 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 8
+00:54:05.299 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 8
+00:54:06.021 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+00:54:06.022 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+00:54:06.022 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+00:54:06.022 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+00:54:06.025 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+00:54:08.217 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+00:54:08.220 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.
+12:06:18.585 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+12:07:36.457 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+12:07:36.681 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+12:07:41.693 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Не было занято ни одного столика
+12:12:48.477 [JavaFX Application Thread] ERROR com.example.anticafe.AnticafeManager - Не было занято ни одного столика
+12:12:53.908 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+12:12:53.908 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+12:15:19.731 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+12:15:19.731 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+12:15:22.810 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+12:15:22.811 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+12:15:22.812 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+12:15:23.692 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+12:15:23.693 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+12:15:23.693 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+12:15:24.296 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+12:15:24.297 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+12:15:24.297 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+12:15:33.186 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+12:15:33.187 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+12:15:33.187 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+12:15:34.490 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+12:15:34.490 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+12:15:34.491 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+12:15:35.214 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+12:15:35.215 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+12:15:35.215 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+12:15:36.024 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+12:15:36.025 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+12:15:36.025 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+12:15:41.474 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+12:15:41.475 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+12:15:41.475 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+12:15:41.857 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+12:15:41.858 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+12:15:41.858 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+12:15:47.378 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+12:15:47.379 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+12:15:47.379 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+12:15:47.729 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+12:15:47.730 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+12:15:47.730 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+12:15:53.144 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+12:15:53.145 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+12:15:53.145 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+12:15:56.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+12:15:56.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+12:15:56.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+12:15:56.609 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+12:15:56.611 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+12:16:47.538 [main] INFO  com.example.anticafe.AnticafeManager - Старт программы
+12:16:48.570 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата
+12:16:48.789 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов деактивированы
+12:16:51.010 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Стоимость за минуту успешно введена
+12:16:51.010 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все кнопки столов активированы
+12:16:52.888 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 1
+12:16:52.890 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 1
+12:16:52.890 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 1
+12:16:53.326 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 7
+12:16:53.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 7
+12:16:53.327 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 7
+12:16:54.169 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 9
+12:16:54.170 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 9
+12:16:54.170 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 9
+12:16:56.006 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Занят столик № 10
+12:16:56.007 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущен таймер для столика № 10
+12:16:56.007 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Запущено отображение заработанных денег столика № 10
+12:17:05.342 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 1
+12:17:05.343 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 1
+12:17:05.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 1
+12:17:05.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 7
+12:17:05.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 7
+12:17:05.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 7
+12:17:05.344 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 9
+12:17:05.345 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 9
+12:17:05.345 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 9
+12:17:05.345 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Освобожден столик № 10
+12:17:05.345 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлено отображение заработанных денег столика № 10
+12:17:05.346 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Остановлен таймер для столика № 10
+12:17:05.346 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Все столики освобождены
+12:17:05.346 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано количество заработанных денег
+12:17:05.346 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был расчитан самый популярный столик и количество его выборов
+12:17:05.346 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Был рассчитан самый доходный столик и было посчитано количество заработанных им денег
+12:17:05.348 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Было посчитано среднее время нахождения в кафе
+12:17:10.192 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена закончена успешно. Отображается EndShiftMenu.fxml.
+12:17:10.194 [JavaFX Application Thread] INFO  com.example.anticafe.AnticafeManager - Смена начата успешно. Отображается Working_menu.fxml.

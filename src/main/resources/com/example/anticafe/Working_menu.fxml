@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #F7943C;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.anticafe.WorkingMenuController">
+   <children>
+      <AnchorPane layoutY="88.0" prefHeight="512.0" prefWidth="800.0" style="-fx-background-color: #FFFFFF;">
+         <children>
+            <GridPane hgap="10.0" layoutX="14.0" layoutY="27.0" prefHeight="459.0" prefWidth="479.0" vgap="10.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button fx:id="table8button" mnemonicParsing="false" prefHeight="80.0" prefWidth="405.0" style="-fx-background-color: #0BDA51;" text="Стол 8" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <Button fx:id="table7button" mnemonicParsing="false" prefHeight="81.0" prefWidth="409.0" style="-fx-background-color: #0BDA51;" text="Стол 7" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Button fx:id="table5button" mnemonicParsing="false" prefHeight="80.0" prefWidth="411.0" style="-fx-background-color: #0BDA51;" text="Стол 5" GridPane.rowIndex="4" />
+                  <Button fx:id="table4button" mnemonicParsing="false" prefHeight="80.0" prefWidth="391.0" style="-fx-background-color: #0BDA51;" text="Стол 4" GridPane.rowIndex="3" />
+                  <Button fx:id="table3button" mnemonicParsing="false" prefHeight="97.0" prefWidth="235.0" style="-fx-background-color: #0BDA51;" text="Стол 3" GridPane.rowIndex="2" />
+                  <Button fx:id="table2button" mnemonicParsing="false" prefHeight="81.0" prefWidth="355.0" style="-fx-background-color: #0BDA51;" text="Стол 2" GridPane.rowIndex="1" />
+                  <Button fx:id="table6button" mnemonicParsing="false" prefHeight="81.0" prefWidth="375.0" style="-fx-background-color: #0BDA51;" text="Стол 6" GridPane.columnIndex="1" />
+                  <Button fx:id="table1button" mnemonicParsing="false" prefHeight="81.0" prefWidth="367.0" style="-fx-background-color: #0BDA51;" text="Стол 1" />
+                  <Button fx:id="table10button" mnemonicParsing="false" prefHeight="80.0" prefWidth="362.0" style="-fx-background-color: #0BDA51;" text="Стол 10" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <Button fx:id="table9button" mnemonicParsing="false" prefHeight="80.0" prefWidth="393.0" style="-fx-background-color: #0BDA51;" text="Стол 9" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <Label fx:id="Timer1" prefHeight="34.0" prefWidth="39.0">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer2" prefHeight="34.0" prefWidth="39.0" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer4" prefHeight="34.0" prefWidth="39.0" GridPane.rowIndex="3">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer3" prefHeight="34.0" prefWidth="39.0" GridPane.rowIndex="2">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer9" prefHeight="34.0" prefWidth="39.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer8" prefHeight="34.0" prefWidth="39.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer7" prefHeight="34.0" prefWidth="39.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer6" prefHeight="34.0" prefWidth="39.0" GridPane.columnIndex="1">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer5" prefHeight="34.0" prefWidth="39.0" GridPane.rowIndex="4">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="Timer10" prefHeight="34.0" prefWidth="39.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                     <GridPane.margin>
+                        <Insets left="100.0" top="50.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel1" prefHeight="34.0" prefWidth="85.0">
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="CostLabel10" prefHeight="34.0" prefWidth="84.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel9" prefHeight="34.0" prefWidth="84.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel8" prefHeight="34.0" prefWidth="84.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel7" prefHeight="34.0" prefWidth="84.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel6" prefHeight="34.0" prefWidth="84.0" GridPane.columnIndex="1">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel5" prefHeight="34.0" prefWidth="84.0" GridPane.rowIndex="4">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel4" prefHeight="34.0" prefWidth="84.0" GridPane.rowIndex="3">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel3" prefHeight="34.0" prefWidth="84.0" GridPane.rowIndex="2">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+                  <Label fx:id="CostLabel2" prefHeight="34.0" prefWidth="87.0" GridPane.rowIndex="1">
+                     <font>
+                        <Font name="Century Gothic" size="12.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="150.0" />
+                     </GridPane.margin>
+                  </Label>
+               </children>
+            </GridPane>
+            <TextField fx:id="CostPerMinuteText" layoutX="539.0" layoutY="47.0" prefHeight="50.0" prefWidth="217.0" promptText="Введите стоимость (руб/мин):">
+               <font>
+                  <Font name="Century Gothic" size="13.0" />
+               </font>
+            </TextField>
+            <Text layoutX="536.0" layoutY="351.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Зеленые столики - свободны Красные столики - заняты" wrappingWidth="223.28515625">
+               <font>
+                  <Font name="Century Gothic" size="14.0" />
+               </font>
+            </Text>
+            <Button fx:id="CostPerMinuteEnterButton" layoutX="622.0" layoutY="109.0" mnemonicParsing="false" text="Ввод">
+               <font>
+                  <Font name="Century Gothic" size="14.0" />
+               </font>
+            </Button>
+            <Text fx:id="SuccesEnterText" layoutX="544.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" " wrappingWidth="207.28515625">
+               <font>
+                  <Font name="Century Gothic" size="14.0" />
+               </font>
+            </Text>
+            <Label fx:id="EarnedMoneyLabel" layoutX="505.0" layoutY="427.0" prefHeight="50.0" prefWidth="280.0" text="Заработано за сегодня: 0.00 руб.">
+               <font>
+                  <Font name="Century Gothic" size="12.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Label layoutX="14.0" layoutY="19.0" prefHeight="50.0" prefWidth="267.0" text="Менеджер Антикафе" textAlignment="CENTER">
+         <font>
+            <Font name="Century Gothic" size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="ShiftEndButton" layoutX="348.0" layoutY="29.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="161.0" style="-fx-background-color: #FFFFFF;" text="Закончить смену">
+         <font>
+            <Font name="Century Gothic" size="16.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

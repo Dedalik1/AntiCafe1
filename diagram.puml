@@ -1,0 +1,183 @@
+@startuml
+class com.example.anticafe.CostManager {
+~ double tableEarnedMoneyForDay
+~ Label costLabel
+~ double tableEarnedMoney
+~ Table table
+~ double costPerMinute
+~ int second
+~ int tableNumber
+- {static} Logger logger
++ void displayCost(Table)
++ void stopDisplayCost(Table)
+}
+class com.example.anticafe.EndShiftMenuController {
+- Label AverageTimeLabel
+- Label EarnedMoneyLabel
+- Label MostPopularTableLabel
+- Label MostProfitableTableLabel
++ void initialize()
++ void DisplayEarnedMoney()
++ void DisplayMostPopularTable()
++ void DisplayMostProfitableTable()
++ void DisplayAverageTime()
+}
+class com.example.anticafe.MainApplication {
++ {static} void main(String[])
+}
+class com.example.anticafe.TimerManager {
+- Timeline timeline
+- Label timerLabel
++ Table table
+- int tableNumber
+- int second
+- CostManager[] costManagers
+- {static} Logger logger
++ void initializeTimer(Table)
++ void startTimer(Table)
++ void stopTimer(Table)
++ void updateTimerLabel(Table)
+}
+class com.example.anticafe.ArchiveData {
+~ Table[] tables
+- {static} double EarnedMoney
+- {static} int mostclickedtable
+- {static} int mostprofitabletable
+- {static} double highestprofit
+- {static} int averagetiime
+- {static} int clickedtime
+- {static} Logger logger
++ void calculateEarnedMoney(Table[])
++ void calculateMostClickedTable(Table[])
++ void calculateMostProfitableTable(Table[])
++ void calculateAverageTime(Table[])
++ {static} double getEarnedMoney()
++ {static} int getMostClickedTable()
++ {static} int getClickedtimes()
++ {static} double getHighestprofit()
++ {static} int getMostprofitabletable()
++ {static} int getAveragetiime()
+}
+class com.example.anticafe.WorkingMenuController {
+- Label CostLabel1
+- Label CostLabel2
+- Label CostLabel3
+- Label CostLabel4
+- Label CostLabel5
+- Label CostLabel6
+- Label CostLabel7
+- Label CostLabel8
+- Label CostLabel9
+- Label CostLabel10
+- Text SuccesEnterText
+- TextField CostPerMinuteText
+- Button CostPerMinuteEnterButton
+- Label Timer1
+- Label Timer10
+- Label Timer2
+- Label Timer3
+- Label Timer4
+- Label Timer5
+- Label Timer6
+- Label Timer7
+- Label Timer8
+- Label Timer9
+- Button ShiftEndButton
+- Button table10button
+- Button table1button
+- Button table2button
+- Button table3button
+- Button table4button
+- Button table5button
+- Button table6button
+- Button table7button
+- Button table8button
+- Button table9button
+- Label EarnedMoneyLabel
+- Table[] tables
+- Button[] tableButtons
+- Label[] timerlabels
+- Label[] costlabels
+- TableManager[] tableManagers
+- ArchiveData archiveData
++ {static} double CostPerMinute
++ boolean isCostEntered
+- {static} Logger logger
++ void initialize()
++ void initializeTableButton(Button,int)
++ void displayEarnedMoney()
++ double summerEarnedMoney()
++ void endShift()
++ boolean noTablesSelected()
++ void showAlert()
++ void releaseAllTables()
++ void deactivateTableButtons()
++ void activateTableButtons()
++ void checkRightCostEnter(boolean)
++ void costEnter()
++ {static} double getCostPerMinute()
+}
+class com.example.anticafe.Table {
+- Boolean IsChoose
+- int TableNumber
+- int second
+- Label CostLabel
+- Label Timerlabel
+- Button tablebutton
+- Timeline timeline
+- double tableearnedmoney
+- double tableearnedmoneyforday
+- ArrayList<Integer> secondsforallday
+- int clickedtimes
++ double getTableearnedmoney()
++ void setTableearnedmoney(double)
++ double getTableearnedmoneyforday()
++ void setTableearnedmoneyforday(double)
++ Timeline getTimeline()
++ void setTimeline(Timeline)
++ int getSecond()
++ void setSecond(int)
++ int getTableNumber()
++ void setTableNumber(int)
++ Label getCostLabel()
++ void setCostLabel(Label)
++ Label getTimer()
++ void setTimer(Label)
++ Button getTablebutton()
++ void setTablebutton(Button)
++ Boolean getChoose()
++ void setChoose(Boolean)
++ int getClickedtimes()
++ void setClickedtimes(int)
++ ArrayList<Integer> getSecondsforallday()
++ void addToSecondsforallday(int)
++ void setSecondsforallday(ArrayList<Integer>)
+}
+class com.example.anticafe.MainMenuController {
+- Button Shift_start
+- Label WelcomeLabel
+- {static} Logger logger
++ void initialize()
++ void startshift()
+- void welcomemessage()
+}
+class com.example.anticafe.AnticafeManager {
+- {static} Logger logger
++ void start(Stage)
++ {static} void main(String[])
+}
+class com.example.anticafe.TableManager {
++ Table table
+- int tableNumber
+- Button button
+- TimerManager[] timerManagers
+- {static} Logger logger
++ void takeTable(Table)
++ void releaseTable(Table)
++ {static} void setColorRed(Button)
++ {static} void setColorGreen(Button)
+}
+
+
+javafx.application.Application <|-- com.example.anticafe.AnticafeManager
+@enduml
